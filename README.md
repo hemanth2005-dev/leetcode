@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hemanth2005-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/hemanth2005-dev/leetcode/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/hemanth2005-dev/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/hemanth2005-dev/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/hemanth2005-dev/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanth2005-dev/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hemanth2005-dev/leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/hemanth2005-dev/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hemanth2005-dev/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/hemanth2005-dev/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hemanth2005-dev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/hemanth2005-dev/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanth2005-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
