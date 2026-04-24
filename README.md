@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hemanth2005-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/hemanth2005-dev/leetcode/tree/master/0496-next-greater-element-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemanth2005-dev/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/hemanth2005-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanth2005-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hemanth2005-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
