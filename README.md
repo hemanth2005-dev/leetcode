@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/hemanth2005-dev/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/hemanth2005-dev/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/hemanth2005-dev/leetcode/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanth2005-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanth2005-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hemanth2005-dev/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/hemanth2005-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hemanth2005-dev/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/hemanth2005-dev/leetcode/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/hemanth2005-dev/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hemanth2005-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/hemanth2005-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanth2005-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
@@ -201,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/hemanth2005-dev/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
