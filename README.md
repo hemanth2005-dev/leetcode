@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hemanth2005-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hemanth2005-dev/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemanth2005-dev/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemanth2005-dev/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
