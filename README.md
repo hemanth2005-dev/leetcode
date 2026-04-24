@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/hemanth2005-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
+| [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hemanth2005-dev/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hemanth2005-dev/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hemanth2005-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/hemanth2005-dev/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/hemanth2005-dev/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth2005-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hemanth2005-dev/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -183,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/hemanth2005-dev/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
