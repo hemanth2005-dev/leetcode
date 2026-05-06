@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/hemanth2005-dev/leetcode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/hemanth2005-dev/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/hemanth2005-dev/leetcode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/hemanth2005-dev/leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/hemanth2005-dev/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/hemanth2005-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/hemanth2005-dev/leetcode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/hemanth2005-dev/leetcode/tree/master/0705-design-hashset) |
 | [1763-longest-nice-substring](https://github.com/hemanth2005-dev/leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hemanth2005-dev/leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/hemanth2005-dev/leetcode/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/hemanth2005-dev/leetcode/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hemanth2005-dev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/hemanth2005-dev/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/hemanth2005-dev/leetcode/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/hemanth2005-dev/leetcode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/hemanth2005-dev/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hemanth2005-dev/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hemanth2005-dev/leetcode/tree/master/0070-climbing-stairs) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/hemanth2005-dev/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
