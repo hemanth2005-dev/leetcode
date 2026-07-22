@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hemanth2005-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/hemanth2005-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/hemanth2005-dev/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hemanth2005-dev/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hemanth2005-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/hemanth2005-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hemanth2005-dev/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/hemanth2005-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hemanth2005-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hemanth2005-dev/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/hemanth2005-dev/leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
